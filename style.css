@@ -222,12 +222,42 @@ main {
 
 /* portfolio project images */
 /* TODO: Add portfolio project images here*/
-.project1 {
-  background-image: url(./img/jorg-angeli-CAMwIxYk5Xg-unsplash.jpg);
+#project1 {
+  background-image: url();
 }
 
-/* media queries */
 
-/* TODO: add media query for a max-width of 980px */
+#project2 {
+  background-image: url(./img/susan-wilkinson-fB6aS7hJEHo-unsplash.jpg);
+}
+
+#project3 {
+  background-image: ;
+}
+
+#project4 {
+  background-image: ;
+}
+
+#project5 {
+  background-image: ;
+}
+
+
+
+/* media queries */
+@media screen and (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+  .flex-item:first-of-type {
+    height: 150px
+  }
+
+}
+
+
 
 /* TODO: add media query for a max-width of 768px */
