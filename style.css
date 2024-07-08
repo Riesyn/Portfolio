@@ -223,7 +223,7 @@ main {
 /* portfolio project images */
 /* TODO: Add portfolio project images here*/
 #project1 {
-  background-image: url();
+  background-image: url(./img/Capture.PNG);
 }
 
 
@@ -232,15 +232,15 @@ main {
 }
 
 #project3 {
-  background-image: ;
+  background-image: url(./img/markus-spiske-C0koz3G1I4I-unsplash.jpg);
 }
 
 #project4 {
-  background-image: ;
+  background-image: url(./img/markus-spiske-N1FkDUEN8Pw-unsplash.jpg);
 }
 
 #project5 {
-  background-image: ;
+  background-image: url(./img/markus-spiske-lkeTLEBD-MM-unsplash.jpg);
 }
 
 
